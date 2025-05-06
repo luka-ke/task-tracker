@@ -79,5 +79,5 @@ You should replace the old token with the new one to maintain continuous access.
 | User   | Can view and update only their own tasks. Cannot create projects or assign tasks. |
 
 ### Notes:
-- [View Postman collection](Desktop/tasktracker (1)/tasktracker/tasktracker-api.postman_collection.json)
+- [View Postman collection](./tasktracker/tasktracker-api.postman_collection.json)
 - [View swagger collection](http://localhost:8080/swagger-ui/index.html#/)
